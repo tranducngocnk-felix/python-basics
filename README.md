@@ -1,5 +1,5 @@
 </> Markdown
-# Python Basics
+# Python Basics Learning Journey
 This respository contains my Python learning journey.
 ## About
 I am learning Python step by step to become a Data Engineer.
